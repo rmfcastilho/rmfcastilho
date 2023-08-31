@@ -23,5 +23,6 @@ A software engineer mostly focused on Typescript/JavaScript and Python with a ba
 
 ## Connect with me
 LinkedIn: https://www.linkedin.com/in/rmfcastilho/
+
 Medium: https://medium.com/@rmfcastilho
 
