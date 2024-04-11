@@ -6,7 +6,7 @@
 A software engineer mostly focused on Typescript/JavaScript and Python with a background in data analytics. American Football and guitar player, boxer, astrophysics certified, and an all-around curious individual.
 
 ## Currently working with
-- Working as a Senior Software Engineer at Dow Jones via Planetary (Javascript/Typescript with Next.js)
+- Working as a Senior Software Engineer at Planetary (Javascript/Typescript with Next.js)
 - Volunteering mentoring people on software development and career
 - Sporadically publishing articles on [Better Programming, JavaScript in Plain English, and Towards Data Science](https://rmfcastilho.medium.com/)
 
