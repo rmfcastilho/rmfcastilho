@@ -1,6 +1,5 @@
 # <center>Rodrigo M. F. Castilho</center>
-<center><b><span style="fontsize: 4em">Front-end leaning Software Engineer</span></center>
-<center>with a background in Data Analytics</center></b>
+<center><b><span style="fontsize: 4em">Senior Software Engineer | Developer | Typescript | Javascript | Python | Next.js | React | Vue | Gatsby | Django</span></center>
 
 ## Who I am
 A software engineer mostly focused on Typescript/JavaScript and Python with a background in data analytics. American Football and guitar player, boxer, astrophysics certified, and an all-around curious individual.
