@@ -10,9 +10,11 @@ A software engineer mostly focused on Typescript/JavaScript and Python with a ba
 - Sporadically publishing articles on [Better Programming, JavaScript in Plain English, and Towards Data Science](https://rmfcastilho.medium.com/)
 
 ## What usually populates my IDE
-- React and Next.js with Typescript
-- Gatsby with Javascript
-- Python (Django)
+- React (Next.js, Gatsby, Remix)
+- Vue (Nuxt)
+- JavaScript
+- TypeScript
+- Python (including Django)
 - Node.js
 
 ## It's been a while
