@@ -6,7 +6,7 @@ A software engineer mostly focused on Typescript/JavaScript and Python with a ba
 
 ## Currently working with
 - Full-stack engineering for web applications, leaning towards the frontend
-- Volunteering mentoring people on software development and career
+- Volunteering mentoring people on software development and career in communities such as [Code The Dream](https://codethedream.org/) and [Virtual Coffee](https://virtualcoffee.io/)
 - Sporadically publishing articles on [Better Programming, JavaScript in Plain English, and Towards Data Science](https://rmfcastilho.medium.com/)
 
 ## What usually populates my IDE
