@@ -1,5 +1,6 @@
 # Rodrigo M. F. Castilho
-### Software Engineering Lead | Senior Web Developer | Typescript | Javascript | Python | Next.js | React | Vue | Gatsby | Django
+## Software Engineering Lead | Senior Web Developer
+#### Typescript | Javascript | Python | Next.js | React | Vue | Gatsby | Django
 
 ## Who I am
 A software engineer mostly focused on Typescript/JavaScript and Python with a background in data analytics. American Football and guitar player, boxer, astrophysics certified.
